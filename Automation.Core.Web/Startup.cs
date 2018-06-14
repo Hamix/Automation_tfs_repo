@@ -46,6 +46,8 @@ namespace Automation.Core.Web
                     options.ConnectionString = this._configurationRoot.GetConnectionString("Default");
                 }
             );
+
+
         }
 
         public void Configure(IApplicationBuilder applicationBuilder, IHostingEnvironment hostingEnvironment, ILoggerFactory loggerFactory)
