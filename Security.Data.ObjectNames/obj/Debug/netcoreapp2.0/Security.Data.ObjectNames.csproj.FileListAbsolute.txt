@@ -1,0 +1,9 @@
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\obj\Debug\netcoreapp2.0\Security.Data.ObjectNames.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\obj\Debug\netcoreapp2.0\Security.Data.ObjectNames.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\obj\Debug\netcoreapp2.0\Security.Data.ObjectNames.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\obj\Debug\netcoreapp2.0\Security.Data.ObjectNames.AssemblyInfo.cs
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\bin\Debug\netcoreapp2.0\Security.Data.ObjectNames.deps.json
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\bin\Debug\netcoreapp2.0\Security.Data.ObjectNames.dll
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\bin\Debug\netcoreapp2.0\Security.Data.ObjectNames.pdb
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\obj\Debug\netcoreapp2.0\Security.Data.ObjectNames.dll
+D:\Projects\Automation_tfs\Security.Data.ObjectNames\obj\Debug\netcoreapp2.0\Security.Data.ObjectNames.pdb

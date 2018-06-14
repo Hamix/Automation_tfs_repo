@@ -1,0 +1,13 @@
+D:\Projects\Automation_tfs\ExtCore.Mvc\bin\Debug\netcoreapp2.0\ExtCore.Mvc.deps.json
+D:\Projects\Automation_tfs\ExtCore.Mvc\bin\Debug\netcoreapp2.0\ExtCore.Mvc.dll
+D:\Projects\Automation_tfs\ExtCore.Mvc\bin\Debug\netcoreapp2.0\ExtCore.Mvc.pdb
+D:\Projects\Automation_tfs\ExtCore.Mvc\bin\Debug\netcoreapp2.0\ExtCore.Infrastructure.dll
+D:\Projects\Automation_tfs\ExtCore.Mvc\bin\Debug\netcoreapp2.0\ExtCore.Mvc.Infrastructure.dll
+D:\Projects\Automation_tfs\ExtCore.Mvc\bin\Debug\netcoreapp2.0\ExtCore.Mvc.Infrastructure.pdb
+D:\Projects\Automation_tfs\ExtCore.Mvc\bin\Debug\netcoreapp2.0\ExtCore.Infrastructure.pdb
+D:\Projects\Automation_tfs\ExtCore.Mvc\obj\Debug\netcoreapp2.0\ExtCore.Mvc.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\ExtCore.Mvc\obj\Debug\netcoreapp2.0\ExtCore.Mvc.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\ExtCore.Mvc\obj\Debug\netcoreapp2.0\ExtCore.Mvc.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\ExtCore.Mvc\obj\Debug\netcoreapp2.0\ExtCore.Mvc.AssemblyInfo.cs
+D:\Projects\Automation_tfs\ExtCore.Mvc\obj\Debug\netcoreapp2.0\ExtCore.Mvc.dll
+D:\Projects\Automation_tfs\ExtCore.Mvc\obj\Debug\netcoreapp2.0\ExtCore.Mvc.pdb

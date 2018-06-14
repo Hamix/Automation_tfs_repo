@@ -1,0 +1,17 @@
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\Automation.Data.EntityFramework.deps.json
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\Automation.Data.EntityFramework.dll
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\Automation.Data.EntityFramework.pdb
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.dll
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Data.Entities.Abstractions.dll
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.dll
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Infrastructure.dll
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.pdb
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.pdb
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Data.Entities.Abstractions.pdb
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\bin\Debug\netcoreapp2.0\ExtCore.Infrastructure.pdb
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\obj\Debug\netcoreapp2.0\Automation.Data.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\obj\Debug\netcoreapp2.0\Automation.Data.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\obj\Debug\netcoreapp2.0\Automation.Data.EntityFramework.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\obj\Debug\netcoreapp2.0\Automation.Data.EntityFramework.AssemblyInfo.cs
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\obj\Debug\netcoreapp2.0\Automation.Data.EntityFramework.dll
+D:\Projects\Automation_tfs\Automation.Data.EntityFramework\obj\Debug\netcoreapp2.0\Automation.Data.EntityFramework.pdb

@@ -1,0 +1,260 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Automation.Core.Infrastructure", "Infrastructure\Automation.Core.Infrastructure.csproj", "{516C3973-24D1-400E-8DA7-B595600C9372}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExtCore Implimation", "ExtCore Implimation", "{AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Infrastructure", "ExtCore.Infrastructure\ExtCore.Infrastructure.csproj", "{628A8348-BC78-43E3-AFB7-79955346F59E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.WebApplication", "ExtCore.WebApplication\ExtCore.WebApplication.csproj", "{6C72CB98-F1DE-4B68-8A04-D2C278E73D8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Automation.Web", "Automation.Web\Automation.Web\Automation.Web.csproj", "{0FDC8BB6-5A5E-4ED0-8D80-3283389404BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "Automation.Web\DAL\DAL.csproj", "{07E2BB9A-03D9-40A0-BAEB-B479DE128DAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{F74B354D-45F3-497F-8CAD-04165DA6DABB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Data.Abstractions", "ExtCore.Data.Abstractions\ExtCore.Data.Abstractions.csproj", "{F34AFE5A-5C9B-4D2F-B695-594D5AA3F9A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Data.Entities.Abstractions", "ExtCore.Data.Entities.Abstractions\ExtCore.Data.Entities.Abstractions.csproj", "{ABC9EAE3-F012-4885-85AF-34969D92C3D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Security", "Security", "{F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.Data.Repositories", "Security.Data.Repositories\Security.Data.Repositories.csproj", "{F9429704-DE53-473C-8B93-DED55082B8BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.Data.Entities", "Security.Data.Entities\Security.Data.Entities.csproj", "{29F8891F-495F-471C-80C7-F777CCB81497}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.Data.Services", "Security.Data.Services\Security.Data.Services.csproj", "{EB252B57-BE06-4D64-80C5-A0B4AC470EBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Data.EntityFramework", "ExtCore.Data.EntityFramework\ExtCore.Data.EntityFramework.csproj", "{CA609600-AB74-4E5F-8F85-B11A81B4CD5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB Contexts", "DB Contexts", "{0B218DCA-BF67-4BF5-AF90-4DFEF620ABC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Automation.Data.EntityFramework", "Automation.Data.EntityFramework\Automation.Data.EntityFramework.csproj", "{F270DE70-547B-4E4C-9166-3B4CBAB9B09F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.Api.Version1", "Security.Api.Version1\Security.Api.Version1.csproj", "{9D0DD27B-36FD-4381-801F-E0EC29E32A06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Mvc.Infrastructure", "ExtCore.Mvc.Infrastructure\ExtCore.Mvc.Infrastructure.csproj", "{4C3B31C2-9848-42D1-BB78-26A0BC56BB2E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.UnitTests", "Security.UnitTests\Security.UnitTests.csproj", "{B9156508-8F7D-4DBA-ACD7-88913440EDA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Automation.Core.Web", "Automation.Core.Web\Automation.Core.Web.csproj", "{B1F0C85E-48CC-45F5-B298-C87F4C0673B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Mvc", "ExtCore.Mvc\ExtCore.Mvc.csproj", "{6A91D30C-59E6-4E41-B27A-6B4B31833169}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Data", "ExtCore.Data\ExtCore.Data.csproj", "{54D6D388-8618-4B6F-97BA-69EDF67E0758}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Data.EntityFramework.SqlServer", "ExtCore.Data.EntityFramework.SqlServer\ExtCore.Data.EntityFramework.SqlServer.csproj", "{904E5085-24C4-4663-B9C3-D3F9F199CF0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.Data.ObjectNames", "Security.Data.ObjectNames\Security.Data.ObjectNames.csproj", "{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.Encryption", "Security.Encryption\Security.Encryption.csproj", "{0CF1826C-A495-4905-8057-DC6FBF571955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516C3973-24D1-400E-8DA7-B595600C9372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516C3973-24D1-400E-8DA7-B595600C9372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516C3973-24D1-400E-8DA7-B595600C9372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516C3973-24D1-400E-8DA7-B595600C9372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628A8348-BC78-43E3-AFB7-79955346F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628A8348-BC78-43E3-AFB7-79955346F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628A8348-BC78-43E3-AFB7-79955346F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628A8348-BC78-43E3-AFB7-79955346F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C72CB98-F1DE-4B68-8A04-D2C278E73D8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C72CB98-F1DE-4B68-8A04-D2C278E73D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C72CB98-F1DE-4B68-8A04-D2C278E73D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C72CB98-F1DE-4B68-8A04-D2C278E73D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDC8BB6-5A5E-4ED0-8D80-3283389404BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDC8BB6-5A5E-4ED0-8D80-3283389404BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDC8BB6-5A5E-4ED0-8D80-3283389404BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDC8BB6-5A5E-4ED0-8D80-3283389404BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E2BB9A-03D9-40A0-BAEB-B479DE128DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E2BB9A-03D9-40A0-BAEB-B479DE128DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E2BB9A-03D9-40A0-BAEB-B479DE128DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E2BB9A-03D9-40A0-BAEB-B479DE128DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34AFE5A-5C9B-4D2F-B695-594D5AA3F9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34AFE5A-5C9B-4D2F-B695-594D5AA3F9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34AFE5A-5C9B-4D2F-B695-594D5AA3F9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34AFE5A-5C9B-4D2F-B695-594D5AA3F9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC9EAE3-F012-4885-85AF-34969D92C3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC9EAE3-F012-4885-85AF-34969D92C3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC9EAE3-F012-4885-85AF-34969D92C3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC9EAE3-F012-4885-85AF-34969D92C3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9429704-DE53-473C-8B93-DED55082B8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9429704-DE53-473C-8B93-DED55082B8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9429704-DE53-473C-8B93-DED55082B8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9429704-DE53-473C-8B93-DED55082B8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F8891F-495F-471C-80C7-F777CCB81497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F8891F-495F-471C-80C7-F777CCB81497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F8891F-495F-471C-80C7-F777CCB81497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F8891F-495F-471C-80C7-F777CCB81497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB252B57-BE06-4D64-80C5-A0B4AC470EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB252B57-BE06-4D64-80C5-A0B4AC470EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB252B57-BE06-4D64-80C5-A0B4AC470EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB252B57-BE06-4D64-80C5-A0B4AC470EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA609600-AB74-4E5F-8F85-B11A81B4CD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA609600-AB74-4E5F-8F85-B11A81B4CD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA609600-AB74-4E5F-8F85-B11A81B4CD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA609600-AB74-4E5F-8F85-B11A81B4CD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F270DE70-547B-4E4C-9166-3B4CBAB9B09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F270DE70-547B-4E4C-9166-3B4CBAB9B09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F270DE70-547B-4E4C-9166-3B4CBAB9B09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F270DE70-547B-4E4C-9166-3B4CBAB9B09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0DD27B-36FD-4381-801F-E0EC29E32A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0DD27B-36FD-4381-801F-E0EC29E32A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0DD27B-36FD-4381-801F-E0EC29E32A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0DD27B-36FD-4381-801F-E0EC29E32A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3B31C2-9848-42D1-BB78-26A0BC56BB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3B31C2-9848-42D1-BB78-26A0BC56BB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3B31C2-9848-42D1-BB78-26A0BC56BB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3B31C2-9848-42D1-BB78-26A0BC56BB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9156508-8F7D-4DBA-ACD7-88913440EDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9156508-8F7D-4DBA-ACD7-88913440EDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9156508-8F7D-4DBA-ACD7-88913440EDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9156508-8F7D-4DBA-ACD7-88913440EDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F0C85E-48CC-45F5-B298-C87F4C0673B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F0C85E-48CC-45F5-B298-C87F4C0673B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F0C85E-48CC-45F5-B298-C87F4C0673B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F0C85E-48CC-45F5-B298-C87F4C0673B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A91D30C-59E6-4E41-B27A-6B4B31833169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A91D30C-59E6-4E41-B27A-6B4B31833169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A91D30C-59E6-4E41-B27A-6B4B31833169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A91D30C-59E6-4E41-B27A-6B4B31833169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D6D388-8618-4B6F-97BA-69EDF67E0758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D6D388-8618-4B6F-97BA-69EDF67E0758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D6D388-8618-4B6F-97BA-69EDF67E0758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D6D388-8618-4B6F-97BA-69EDF67E0758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904E5085-24C4-4663-B9C3-D3F9F199CF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904E5085-24C4-4663-B9C3-D3F9F199CF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904E5085-24C4-4663-B9C3-D3F9F199CF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904E5085-24C4-4663-B9C3-D3F9F199CF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF1826C-A495-4905-8057-DC6FBF571955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF1826C-A495-4905-8057-DC6FBF571955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF1826C-A495-4905-8057-DC6FBF571955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF1826C-A495-4905-8057-DC6FBF571955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{628A8348-BC78-43E3-AFB7-79955346F59E} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{6C72CB98-F1DE-4B68-8A04-D2C278E73D8A} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{F34AFE5A-5C9B-4D2F-B695-594D5AA3F9A5} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{ABC9EAE3-F012-4885-85AF-34969D92C3D8} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{F62AB5D4-8E20-4B08-8AC9-556128AF3D3B} = {F74B354D-45F3-497F-8CAD-04165DA6DABB}
+		{F9429704-DE53-473C-8B93-DED55082B8BC} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+		{29F8891F-495F-471C-80C7-F777CCB81497} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+		{EB252B57-BE06-4D64-80C5-A0B4AC470EBF} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+		{CA609600-AB74-4E5F-8F85-B11A81B4CD5F} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{0B218DCA-BF67-4BF5-AF90-4DFEF620ABC8} = {F74B354D-45F3-497F-8CAD-04165DA6DABB}
+		{F270DE70-547B-4E4C-9166-3B4CBAB9B09F} = {0B218DCA-BF67-4BF5-AF90-4DFEF620ABC8}
+		{9D0DD27B-36FD-4381-801F-E0EC29E32A06} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+		{4C3B31C2-9848-42D1-BB78-26A0BC56BB2E} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{B9156508-8F7D-4DBA-ACD7-88913440EDA2} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+		{6A91D30C-59E6-4E41-B27A-6B4B31833169} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{54D6D388-8618-4B6F-97BA-69EDF67E0758} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{904E5085-24C4-4663-B9C3-D3F9F199CF0F} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
+		{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+		{0CF1826C-A495-4905-8057-DC6FBF571955} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DBD0808-4172-47B9-88FD-5204AEAB48CB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 22
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://sarlak-pc:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Automation.Data.EntityFramework\\Automation.Data.EntityFramework.csproj
+		SccProjectTopLevelParentUniqueName1 = Automation.sln
+		SccProjectName1 = Automation.Data.EntityFramework
+		SccLocalPath1 = Automation.Data.EntityFramework
+		SccProjectUniqueName2 = Automation.Web\\Automation.Web\\Automation.Web.csproj
+		SccProjectName2 = Automation.Web/Automation.Web
+		SccLocalPath2 = Automation.Web\\Automation.Web
+		SccProjectUniqueName3 = Automation.Web\\DAL\\DAL.csproj
+		SccProjectName3 = Automation.Web/DAL
+		SccLocalPath3 = Automation.Web\\DAL
+		SccProjectUniqueName4 = ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj
+		SccProjectTopLevelParentUniqueName4 = Automation.sln
+		SccProjectName4 = ExtCore.Data.Abstractions
+		SccLocalPath4 = ExtCore.Data.Abstractions
+		SccProjectUniqueName5 = ExtCore.Data.Entities.Abstractions\\ExtCore.Data.Entities.Abstractions.csproj
+		SccProjectTopLevelParentUniqueName5 = Automation.sln
+		SccProjectName5 = ExtCore.Data.Entities.Abstractions
+		SccLocalPath5 = ExtCore.Data.Entities.Abstractions
+		SccProjectUniqueName6 = ExtCore.Data.EntityFramework\\ExtCore.Data.EntityFramework.csproj
+		SccProjectTopLevelParentUniqueName6 = Automation.sln
+		SccProjectName6 = ExtCore.Data.EntityFramework
+		SccLocalPath6 = ExtCore.Data.EntityFramework
+		SccProjectUniqueName7 = ExtCore.Infrastructure\\ExtCore.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName7 = Automation.sln
+		SccProjectName7 = ExtCore.Infrastructure
+		SccLocalPath7 = ExtCore.Infrastructure
+		SccProjectUniqueName8 = ExtCore.WebApplication\\ExtCore.WebApplication.csproj
+		SccProjectTopLevelParentUniqueName8 = Automation.sln
+		SccProjectName8 = ExtCore.WebApplication
+		SccLocalPath8 = ExtCore.WebApplication
+		SccProjectUniqueName9 = Security.Data.Entities\\Security.Data.Entities.csproj
+		SccProjectTopLevelParentUniqueName9 = Automation.sln
+		SccProjectName9 = Security.Data.Entities
+		SccLocalPath9 = Security.Data.Entities
+		SccProjectUniqueName10 = Security.Data.Repositories\\Security.Data.Repositories.csproj
+		SccProjectTopLevelParentUniqueName10 = Automation.sln
+		SccProjectName10 = Security.Data.Repositories
+		SccLocalPath10 = Security.Data.Repositories
+		SccProjectUniqueName11 = Security.Data.Services\\Security.Data.Services.csproj
+		SccProjectTopLevelParentUniqueName11 = Automation.sln
+		SccProjectName11 = Security.Data.Services
+		SccLocalPath11 = Security.Data.Services
+		SccProjectUniqueName12 = Security.Api.Version1\\Security.Api.Version1.csproj
+		SccProjectTopLevelParentUniqueName12 = Automation.sln
+		SccProjectName12 = Security.Api.Version1
+		SccLocalPath12 = Security.Api.Version1
+		SccProjectUniqueName13 = ExtCore.Mvc.Infrastructure\\ExtCore.Mvc.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName13 = Automation.sln
+		SccProjectName13 = ExtCore.Mvc.Infrastructure
+		SccLocalPath13 = ExtCore.Mvc.Infrastructure
+		SccProjectUniqueName14 = Security.UnitTests\\Security.UnitTests.csproj
+		SccProjectTopLevelParentUniqueName14 = Automation.sln
+		SccProjectName14 = Security.UnitTests
+		SccLocalPath14 = Security.UnitTests
+		SccProjectUniqueName15 = Automation.Core.Web\\Automation.Core.Web.csproj
+		SccProjectName15 = Automation.Core.Web
+		SccLocalPath15 = Automation.Core.Web
+		SccProjectUniqueName16 = ExtCore.Mvc\\ExtCore.Mvc.csproj
+		SccProjectTopLevelParentUniqueName16 = Automation.sln
+		SccProjectName16 = ExtCore.Mvc
+		SccLocalPath16 = ExtCore.Mvc
+		SccProjectUniqueName17 = ExtCore.Data\\ExtCore.Data.csproj
+		SccProjectTopLevelParentUniqueName17 = Automation.sln
+		SccProjectName17 = ExtCore.Data
+		SccLocalPath17 = ExtCore.Data
+		SccProjectUniqueName18 = Infrastructure\\Automation.Core.Infrastructure.csproj
+		SccProjectName18 = Infrastructure
+		SccLocalPath18 = Infrastructure
+		SccProjectUniqueName19 = ExtCore.Data.EntityFramework.SqlServer\\ExtCore.Data.EntityFramework.SqlServer.csproj
+		SccProjectTopLevelParentUniqueName19 = Automation.sln
+		SccProjectName19 = ExtCore.Data.EntityFramework.SqlServer
+		SccLocalPath19 = ExtCore.Data.EntityFramework.SqlServer
+		SccProjectUniqueName20 = Security.Data.ObjectNames\\Security.Data.ObjectNames.csproj
+		SccProjectTopLevelParentUniqueName20 = Automation.sln
+		SccProjectName20 = Security.Data.ObjectNames
+		SccLocalPath20 = Security.Data.ObjectNames
+		SccProjectUniqueName21 = Security.Encryption\\Security.Encryption.csproj
+		SccProjectTopLevelParentUniqueName21 = Automation.sln
+		SccProjectName21 = Security.Encryption
+		SccLocalPath21 = Security.Encryption
+	EndGlobalSection
+EndGlobal
