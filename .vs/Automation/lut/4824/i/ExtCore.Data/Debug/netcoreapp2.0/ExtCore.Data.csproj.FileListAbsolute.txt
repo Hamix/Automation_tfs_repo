@@ -1,0 +1,8 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data\Debug\netcoreapp2.0\ExtCore.Data.pdb

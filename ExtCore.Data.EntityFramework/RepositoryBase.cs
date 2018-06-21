@@ -31,7 +31,5 @@ namespace ExtCore.Data.EntityFramework
             StorageContext.SaveChanges();
         }
 
-        
-
     }
 }

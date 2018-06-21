@@ -9,6 +9,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
   </PropertyGroup>
 
   <ItemGroup>
@@ -27,6 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Properties\" />
     <Folder Include="Resources\" />
   </ItemGroup>
 

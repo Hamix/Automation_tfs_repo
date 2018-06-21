@@ -1,0 +1,8 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Web.Api.Versoin1\bin\ApplicationInsights.config
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Web.Api.Versoin1\bin\Security.Web.Api.Versoin1.dll.config
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Web.Api.Versoin1\bin\Security.Web.Api.Versoin1.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Web.Api.Versoin1\bin\Security.Web.Api.Versoin1.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Web.Api.Versoin1\Debug\Security.Web.Api.Versoin1.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Web.Api.Versoin1\Debug\Security.Web.Api.Versoin1.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Web.Api.Versoin1\Debug\Security.Web.Api.Versoin1.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Web.Api.Versoin1\Debug\Security.Web.Api.Versoin1.pdb

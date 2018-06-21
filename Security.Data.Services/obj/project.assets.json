@@ -12826,14 +12826,10 @@
   },
   "packageFolders": {
     "C:\\Users\\sarlak.hamzeh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "D:\\Projects\\Automation_tfs\\Security.Data.Services\\Security.Data.Services.csproj",
       "projectName": "Security.Data.Services",
@@ -12842,13 +12838,11 @@
       "outputPath": "D:\\Projects\\Automation_tfs\\Security.Data.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\sarlak.hamzeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12860,17 +12854,17 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "D:\\Projects\\Automation_tfs\\ExtCore.Data.EntityFramework.SqlServer\\ExtCore.Data.EntityFramework.SqlServer.csproj": {
+              "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Data.EntityFramework.SqlServer\\ExtCore.Data.EntityFramework.SqlServer.csproj"
+            },
             "D:\\Projects\\Automation_tfs\\Security.Data.ObjectNames\\Security.Data.ObjectNames.csproj": {
               "projectPath": "D:\\Projects\\Automation_tfs\\Security.Data.ObjectNames\\Security.Data.ObjectNames.csproj"
-            },
-            "D:\\Projects\\Automation_tfs\\Security.Encryption\\Security.Encryption.csproj": {
-              "projectPath": "D:\\Projects\\Automation_tfs\\Security.Encryption\\Security.Encryption.csproj"
             },
             "D:\\Projects\\Automation_tfs\\Security.Data.Repositories\\Security.Data.Repositories.csproj": {
               "projectPath": "D:\\Projects\\Automation_tfs\\Security.Data.Repositories\\Security.Data.Repositories.csproj"
             },
-            "D:\\Projects\\Automation_tfs\\ExtCore.Data.EntityFramework.SqlServer\\ExtCore.Data.EntityFramework.SqlServer.csproj": {
-              "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Data.EntityFramework.SqlServer\\ExtCore.Data.EntityFramework.SqlServer.csproj"
+            "D:\\Projects\\Automation_tfs\\Security.Encryption\\Security.Encryption.csproj": {
+              "projectPath": "D:\\Projects\\Automation_tfs\\Security.Encryption\\Security.Encryption.csproj"
             }
           }
         }

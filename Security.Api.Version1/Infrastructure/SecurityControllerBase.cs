@@ -12,7 +12,6 @@ namespace Security.Api.Version1.Infrastructure
 
         protected SecurityControllerBase(IStorageService storageService)
         {
-
             StorageService = storageService;
         }
     }

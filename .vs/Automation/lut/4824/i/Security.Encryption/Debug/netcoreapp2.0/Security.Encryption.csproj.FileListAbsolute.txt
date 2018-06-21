@@ -1,0 +1,8 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Encryption\Debug\netcoreapp2.0\Security.Encryption.pdb

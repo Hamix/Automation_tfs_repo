@@ -1,0 +1,11 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Web\Debug\netcoreapp2.0\Automation.Web.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Web\Debug\netcoreapp2.0\Automation.Web.runtimeconfig.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Web\Debug\netcoreapp2.0\Automation.Web.runtimeconfig.dev.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Web\Debug\netcoreapp2.0\Automation.Web.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Web\Debug\netcoreapp2.0\Automation.Web.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Web\Debug\netcoreapp2.0\Automation.Web.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Web\Debug\netcoreapp2.0\Automation.Web.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Web\Debug\netcoreapp2.0\Automation.Web.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Web\Debug\netcoreapp2.0\Automation.Web.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Web\Debug\netcoreapp2.0\Automation.Web.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Web\Debug\netcoreapp2.0\Automation.Web.pdb

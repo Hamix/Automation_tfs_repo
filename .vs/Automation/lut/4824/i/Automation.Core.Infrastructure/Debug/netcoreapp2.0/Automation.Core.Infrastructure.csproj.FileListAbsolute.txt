@@ -1,0 +1,9 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Core.Infrastructure\Debug\netcoreapp2.0\Automation.Core.Infrastructure.pdb

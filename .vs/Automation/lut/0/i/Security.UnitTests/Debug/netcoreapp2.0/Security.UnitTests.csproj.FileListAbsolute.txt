@@ -1,0 +1,14 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.runtimeconfig.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.runtimeconfig.dev.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.UnitTests\Debug\netcoreapp2.0\Security.UnitTests.pdb

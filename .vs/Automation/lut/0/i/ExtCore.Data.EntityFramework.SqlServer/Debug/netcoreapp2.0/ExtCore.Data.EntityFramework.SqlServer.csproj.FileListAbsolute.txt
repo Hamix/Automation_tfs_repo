@@ -1,0 +1,8 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\ExtCore.Data.EntityFramework.SqlServer\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.pdb

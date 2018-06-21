@@ -12,9 +12,9 @@ namespace Automation.Core.Web.Infrastructure.Extensions
         /*internal static IMembershipService GetMembershipService(this HttpRequestMessage request)
         {
             return request.GetService<IMembershipService>();
-        }*/
+        }
 
-        /*internal static IEntityBaseRepository<T> GetDataRepository<T>(this HttpRequestMessage request) where T : class, IEntityBase, new()
+        internal static IEntityBaseRepository<T> GetDataRepository<T>(this HttpRequestMessage request) where T : class, IEntityBase, new()
         {
             return request.GetService<IEntityBaseRepository<T>>();
         }

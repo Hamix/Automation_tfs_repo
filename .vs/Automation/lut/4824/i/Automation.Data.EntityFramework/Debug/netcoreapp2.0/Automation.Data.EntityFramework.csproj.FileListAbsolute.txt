@@ -1,0 +1,8 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Automation.Data.EntityFramework\Debug\netcoreapp2.0\Automation.Data.EntityFramework.pdb

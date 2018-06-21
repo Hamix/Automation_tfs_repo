@@ -12757,14 +12757,10 @@
   },
   "packageFolders": {
     "C:\\Users\\sarlak.hamzeh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "D:\\Projects\\Automation_tfs\\Security.Data.Repositories\\Security.Data.Repositories.csproj",
       "projectName": "Security.Data.Repositories",
@@ -12773,13 +12769,11 @@
       "outputPath": "D:\\Projects\\Automation_tfs\\Security.Data.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\sarlak.hamzeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12791,14 +12785,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "D:\\Projects\\Automation_tfs\\ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj": {
+              "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj"
+            },
             "D:\\Projects\\Automation_tfs\\ExtCore.Data.EntityFramework\\ExtCore.Data.EntityFramework.csproj": {
               "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Data.EntityFramework\\ExtCore.Data.EntityFramework.csproj"
             },
             "D:\\Projects\\Automation_tfs\\Security.Data.Entities\\Security.Data.Entities.csproj": {
               "projectPath": "D:\\Projects\\Automation_tfs\\Security.Data.Entities\\Security.Data.Entities.csproj"
-            },
-            "D:\\Projects\\Automation_tfs\\ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj": {
-              "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj"
             }
           }
         }

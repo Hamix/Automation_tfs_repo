@@ -26,3 +26,13 @@ D:\Projects\Automation_tfs\Security.UnitTests\obj\Debug\netcoreapp2.0\Security.U
 D:\Projects\Automation_tfs\Security.UnitTests\obj\Debug\netcoreapp2.0\Security.UnitTests.AssemblyInfo.cs
 D:\Projects\Automation_tfs\Security.UnitTests\obj\Debug\netcoreapp2.0\Security.UnitTests.dll
 D:\Projects\Automation_tfs\Security.UnitTests\obj\Debug\netcoreapp2.0\Security.UnitTests.pdb
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.dll
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.dll
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\Security.Data.ObjectNames.dll
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\Security.Data.Services.dll
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\Security.Encryption.dll
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.pdb
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\Security.Data.Services.pdb
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\ExtCore.Data.EntityFramework.SqlServer.pdb
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\Security.Data.ObjectNames.pdb
+D:\Projects\Automation_tfs\Security.UnitTests\bin\Debug\netcoreapp2.0\Security.Encryption.pdb

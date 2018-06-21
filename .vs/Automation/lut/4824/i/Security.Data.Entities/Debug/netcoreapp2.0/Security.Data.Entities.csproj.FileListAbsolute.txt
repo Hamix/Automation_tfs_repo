@@ -1,0 +1,9 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\Security.Data.Entities\Debug\netcoreapp2.0\Security.Data.Entities.pdb

@@ -12700,14 +12700,10 @@
   },
   "packageFolders": {
     "C:\\Users\\sarlak.hamzeh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "3.2.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "D:\\Projects\\Automation_tfs\\ExtCore.Data\\ExtCore.Data.csproj",
       "projectName": "ExtCore.Data",
@@ -12716,13 +12712,11 @@
       "outputPath": "D:\\Projects\\Automation_tfs\\ExtCore.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\sarlak.hamzeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12734,11 +12728,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Projects\\Automation_tfs\\ExtCore.Infrastructure\\ExtCore.Infrastructure.csproj": {
-              "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Infrastructure\\ExtCore.Infrastructure.csproj"
-            },
             "D:\\Projects\\Automation_tfs\\ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj": {
               "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj"
+            },
+            "D:\\Projects\\Automation_tfs\\ExtCore.Infrastructure\\ExtCore.Infrastructure.csproj": {
+              "projectPath": "D:\\Projects\\Automation_tfs\\ExtCore.Infrastructure\\ExtCore.Infrastructure.csproj"
             }
           }
         }

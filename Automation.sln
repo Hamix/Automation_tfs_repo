@@ -49,9 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Data", "ExtCore.Dat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtCore.Data.EntityFramework.SqlServer", "ExtCore.Data.EntityFramework.SqlServer\ExtCore.Data.EntityFramework.SqlServer.csproj", "{904E5085-24C4-4663-B9C3-D3F9F199CF0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.Data.ObjectNames", "Security.Data.ObjectNames\Security.Data.ObjectNames.csproj", "{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.Data.ObjectNames", "Security.Data.ObjectNames\Security.Data.ObjectNames.csproj", "{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.Encryption", "Security.Encryption\Security.Encryption.csproj", "{0CF1826C-A495-4905-8057-DC6FBF571955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Security.Encryption", "Security.Encryption\Security.Encryption.csproj", "{0CF1826C-A495-4905-8057-DC6FBF571955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security.Web.Api.Versoin1", "Security.Web.Api.Versoin1\Security.Web.Api.Versoin1.csproj", "{574AE100-4EB9-467C-A249-1591C6DA250D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{0CF1826C-A495-4905-8057-DC6FBF571955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CF1826C-A495-4905-8057-DC6FBF571955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CF1826C-A495-4905-8057-DC6FBF571955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574AE100-4EB9-467C-A249-1591C6DA250D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574AE100-4EB9-467C-A249-1591C6DA250D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574AE100-4EB9-467C-A249-1591C6DA250D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574AE100-4EB9-467C-A249-1591C6DA250D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -167,94 +173,9 @@ Global
 		{904E5085-24C4-4663-B9C3-D3F9F199CF0F} = {AE5D617A-3EE1-4AD5-A6FB-2A22DECE220D}
 		{E6F141C5-307E-4F22-B09F-C2CEF6DBAF6C} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
 		{0CF1826C-A495-4905-8057-DC6FBF571955} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
+		{574AE100-4EB9-467C-A249-1591C6DA250D} = {F62AB5D4-8E20-4B08-8AC9-556128AF3D3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2DBD0808-4172-47B9-88FD-5204AEAB48CB}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 22
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://sarlak-pc:8080/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Automation.Data.EntityFramework\\Automation.Data.EntityFramework.csproj
-		SccProjectTopLevelParentUniqueName1 = Automation.sln
-		SccProjectName1 = Automation.Data.EntityFramework
-		SccLocalPath1 = Automation.Data.EntityFramework
-		SccProjectUniqueName2 = Automation.Web\\Automation.Web\\Automation.Web.csproj
-		SccProjectName2 = Automation.Web/Automation.Web
-		SccLocalPath2 = Automation.Web\\Automation.Web
-		SccProjectUniqueName3 = Automation.Web\\DAL\\DAL.csproj
-		SccProjectName3 = Automation.Web/DAL
-		SccLocalPath3 = Automation.Web\\DAL
-		SccProjectUniqueName4 = ExtCore.Data.Abstractions\\ExtCore.Data.Abstractions.csproj
-		SccProjectTopLevelParentUniqueName4 = Automation.sln
-		SccProjectName4 = ExtCore.Data.Abstractions
-		SccLocalPath4 = ExtCore.Data.Abstractions
-		SccProjectUniqueName5 = ExtCore.Data.Entities.Abstractions\\ExtCore.Data.Entities.Abstractions.csproj
-		SccProjectTopLevelParentUniqueName5 = Automation.sln
-		SccProjectName5 = ExtCore.Data.Entities.Abstractions
-		SccLocalPath5 = ExtCore.Data.Entities.Abstractions
-		SccProjectUniqueName6 = ExtCore.Data.EntityFramework\\ExtCore.Data.EntityFramework.csproj
-		SccProjectTopLevelParentUniqueName6 = Automation.sln
-		SccProjectName6 = ExtCore.Data.EntityFramework
-		SccLocalPath6 = ExtCore.Data.EntityFramework
-		SccProjectUniqueName7 = ExtCore.Infrastructure\\ExtCore.Infrastructure.csproj
-		SccProjectTopLevelParentUniqueName7 = Automation.sln
-		SccProjectName7 = ExtCore.Infrastructure
-		SccLocalPath7 = ExtCore.Infrastructure
-		SccProjectUniqueName8 = ExtCore.WebApplication\\ExtCore.WebApplication.csproj
-		SccProjectTopLevelParentUniqueName8 = Automation.sln
-		SccProjectName8 = ExtCore.WebApplication
-		SccLocalPath8 = ExtCore.WebApplication
-		SccProjectUniqueName9 = Security.Data.Entities\\Security.Data.Entities.csproj
-		SccProjectTopLevelParentUniqueName9 = Automation.sln
-		SccProjectName9 = Security.Data.Entities
-		SccLocalPath9 = Security.Data.Entities
-		SccProjectUniqueName10 = Security.Data.Repositories\\Security.Data.Repositories.csproj
-		SccProjectTopLevelParentUniqueName10 = Automation.sln
-		SccProjectName10 = Security.Data.Repositories
-		SccLocalPath10 = Security.Data.Repositories
-		SccProjectUniqueName11 = Security.Data.Services\\Security.Data.Services.csproj
-		SccProjectTopLevelParentUniqueName11 = Automation.sln
-		SccProjectName11 = Security.Data.Services
-		SccLocalPath11 = Security.Data.Services
-		SccProjectUniqueName12 = Security.Api.Version1\\Security.Api.Version1.csproj
-		SccProjectTopLevelParentUniqueName12 = Automation.sln
-		SccProjectName12 = Security.Api.Version1
-		SccLocalPath12 = Security.Api.Version1
-		SccProjectUniqueName13 = ExtCore.Mvc.Infrastructure\\ExtCore.Mvc.Infrastructure.csproj
-		SccProjectTopLevelParentUniqueName13 = Automation.sln
-		SccProjectName13 = ExtCore.Mvc.Infrastructure
-		SccLocalPath13 = ExtCore.Mvc.Infrastructure
-		SccProjectUniqueName14 = Security.UnitTests\\Security.UnitTests.csproj
-		SccProjectTopLevelParentUniqueName14 = Automation.sln
-		SccProjectName14 = Security.UnitTests
-		SccLocalPath14 = Security.UnitTests
-		SccProjectUniqueName15 = Automation.Core.Web\\Automation.Core.Web.csproj
-		SccProjectName15 = Automation.Core.Web
-		SccLocalPath15 = Automation.Core.Web
-		SccProjectUniqueName16 = ExtCore.Mvc\\ExtCore.Mvc.csproj
-		SccProjectTopLevelParentUniqueName16 = Automation.sln
-		SccProjectName16 = ExtCore.Mvc
-		SccLocalPath16 = ExtCore.Mvc
-		SccProjectUniqueName17 = ExtCore.Data\\ExtCore.Data.csproj
-		SccProjectTopLevelParentUniqueName17 = Automation.sln
-		SccProjectName17 = ExtCore.Data
-		SccLocalPath17 = ExtCore.Data
-		SccProjectUniqueName18 = Infrastructure\\Automation.Core.Infrastructure.csproj
-		SccProjectName18 = Infrastructure
-		SccLocalPath18 = Infrastructure
-		SccProjectUniqueName19 = ExtCore.Data.EntityFramework.SqlServer\\ExtCore.Data.EntityFramework.SqlServer.csproj
-		SccProjectTopLevelParentUniqueName19 = Automation.sln
-		SccProjectName19 = ExtCore.Data.EntityFramework.SqlServer
-		SccLocalPath19 = ExtCore.Data.EntityFramework.SqlServer
-		SccProjectUniqueName20 = Security.Data.ObjectNames\\Security.Data.ObjectNames.csproj
-		SccProjectTopLevelParentUniqueName20 = Automation.sln
-		SccProjectName20 = Security.Data.ObjectNames
-		SccLocalPath20 = Security.Data.ObjectNames
-		SccProjectUniqueName21 = Security.Encryption\\Security.Encryption.csproj
-		SccProjectTopLevelParentUniqueName21 = Automation.sln
-		SccProjectName21 = Security.Encryption
-		SccLocalPath21 = Security.Encryption
 	EndGlobalSection
 EndGlobal

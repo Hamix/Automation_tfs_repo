@@ -12,6 +12,7 @@ using Security.Data.Services.Infrastructure;
 namespace Security.Api.Version1.Controllers
 {
     [Route("api/v1")]
+    
     public class UserController : SecurityControllerBase
     {
         #region Services
@@ -26,13 +27,12 @@ namespace Security.Api.Version1.Controllers
         }
 
 
-        [HttpGet]
+        [HttpGet,Authorize]
         [Route("getUser")]
         public IEnumerable<string> Get()
         {
             var user = _membershipService.ValidateUser("SystemAdmin", "Admin$$1397 Ok@136");
             //_membershipService.CreateUser("SystemAdmin", "Hamzehomry@gmail.com", "Admin$$1397 Ok@136", "System Admin","09367405157", 3);
-
             //var s = StorageService.GetRepository<IUserRepository>();
             //StorageService.Save();
             return new[] {"item 1", "item 2"};
@@ -40,7 +40,8 @@ namespace Security.Api.Version1.Controllers
 
 
         [HttpGet]
-        //[Route("getUsers")]
+        [AllowAnonymous]
+        [Route("test")]
         public IEnumerable<string> G()
         {
             return new[] {"item 1", "item 2"};

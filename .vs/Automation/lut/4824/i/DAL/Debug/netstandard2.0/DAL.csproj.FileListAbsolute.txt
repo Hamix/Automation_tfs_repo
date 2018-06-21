@@ -1,0 +1,9 @@
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\DAL\Debug\netstandard2.0\DAL.deps.json
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\DAL\Debug\netstandard2.0\DAL.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\b\DAL\Debug\netstandard2.0\DAL.pdb
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\DAL\Debug\netstandard2.0\DAL.csprojResolveAssemblyReference.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\DAL\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\DAL\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\DAL\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\DAL\Debug\netstandard2.0\DAL.dll
+D:\Projects\Automation_tfs\.vs\Automation\lut\0\i\DAL\Debug\netstandard2.0\DAL.pdb

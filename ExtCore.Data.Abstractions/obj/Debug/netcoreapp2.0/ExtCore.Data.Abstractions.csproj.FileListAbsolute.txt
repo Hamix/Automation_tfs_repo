@@ -10,7 +10,6 @@ D:\Projects\Automation\ExtCore.Data.Abstractions\obj\Debug\netcoreapp2.0\ExtCore
 D:\Projects\Automation_tfs\ExtCore.Data.Abstractions\bin\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.deps.json
 D:\Projects\Automation_tfs\ExtCore.Data.Abstractions\bin\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.dll
 D:\Projects\Automation_tfs\ExtCore.Data.Abstractions\bin\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.pdb
-D:\Projects\Automation_tfs\ExtCore.Data.Abstractions\obj\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.csprojResolveAssemblyReference.cache
 D:\Projects\Automation_tfs\ExtCore.Data.Abstractions\obj\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.csproj.CoreCompileInputs.cache
 D:\Projects\Automation_tfs\ExtCore.Data.Abstractions\obj\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.AssemblyInfoInputs.cache
 D:\Projects\Automation_tfs\ExtCore.Data.Abstractions\obj\Debug\netcoreapp2.0\ExtCore.Data.Abstractions.AssemblyInfo.cs
